@@ -5,4 +5,7 @@
 /* Optional: keep your fonts */
 body {
   font-family: 'Inter', sans-serif;
+  :root {
+  --gold: #D4AF37;
+}
 }
